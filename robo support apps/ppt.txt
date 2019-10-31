@@ -1,0 +1,7 @@
+introduction-> remote control, surviallance and autonomous
+apps used common-> json-server,ipcam/motion,arduino-esp8266,angular web app.
+autonomous driving-> used the code source, 3 zones
+line following,robot control arduino algorithm
+how everything works together when introducing them
+application
+thankyou

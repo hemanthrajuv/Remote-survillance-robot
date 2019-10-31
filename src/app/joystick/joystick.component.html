@@ -1,0 +1,10 @@
+<div class="container space-top">
+        <div class="center-align" (panstart)="onPanStart($event)"
+        (panmove)="onPanMove($event)" (panend)="onPanend($event)">
+          <canvas id="joystick" #joystick height="300" width="300">
+    </canvas>
+        </div>
+        <!-- <p id="xVal" class="light">X: {{xVal}}</p>
+        <p id="yVal" class="light">Y: {{yVal}}</p>
+        <p id="dir" class="light">dir: {{dir}}</p> -->
+      </div>
