@@ -26,7 +26,7 @@
     "createjs-module": "^0.8.3",
     "hammer-timejs": "^1.1.0",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-webcam": "^0.2.6",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
